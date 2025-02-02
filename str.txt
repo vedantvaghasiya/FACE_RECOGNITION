@@ -3,3 +3,6 @@ dlib
 face-recognition
 cvzone
 opencv
+
+
+pip install face_recognition   
